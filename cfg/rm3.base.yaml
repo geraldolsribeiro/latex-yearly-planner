@@ -1,0 +1,48 @@
+cleartoprightcorner: true
+dotted: false
+
+layout:
+  paper:
+    width:  18.00cm # 15.6cm # echo "scale=2; 15.6 * 1620 / 1404" | bc
+    height: 24.11cm # 20.9cm # echo "scale=2; 20.9 * 2160 / 1872" | bc
+
+    reversemargins: true
+    marginparwidth: 1cm
+    marginparsep: 4.5mm
+
+    margin:
+      top: .3cm
+      bottom: 0.5cm
+      left: 1.4cm
+      right: 0.3cm
+
+  numbers:
+    quarterlylines: 38
+    weeklylines: 13
+    dailybottomhour: 6
+    dailytophour: 22
+    dailytodos: 8
+    dailynotes: 25
+    dailydiarygrateful: 4
+    dailydiarybest: 4
+    dailydiarylog: 32
+    notesindexpages: 3
+    notesonpage: 44
+    dotheightfull: 38
+    dotwidthtwothirds: 19
+    dotwidthfull: 29
+
+  lengths:
+    tabcolsep: 3.5pt
+    linethicknessdefault: .4pt
+    linethicknessthick: .8pt
+    lineheightbutline: \dimexpr5mm-.4pt
+    twocolsep: 5pt
+    tricolsep: 5pt
+    monthlycellheight: 55pt
+    notesindexcellheight: 1.45cm
+    quarterlyspring: \textcolor{yellow}{..}
+
+  colors:
+    gray: gray!80
+    lightgray: gray!50

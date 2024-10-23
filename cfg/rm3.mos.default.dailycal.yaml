@@ -1,0 +1,11 @@
+calafterschedule: true
+
+layout:
+  numbers:
+    dailybottomhour: 7
+    dailytophour: 22
+
+  lengths:
+    headersidecellheight: "[1.35ex]"
+    headersidequarterswidth: 4.0cm
+    headersidemonthswidth: 18.00cm

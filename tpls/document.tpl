@@ -1,5 +1,9 @@
 \documentclass[9pt]{extarticle}
 
+\usepackage{fontspec}
+%\setmainfont{DejaVu Sans}
+\setmainfont{FiraCode NF}
+
 \usepackage{geometry}
 \usepackage[table]{xcolor}
 {{if $.Cfg.Debug.ShowFrame}}\usepackage{showframe}{{end}}

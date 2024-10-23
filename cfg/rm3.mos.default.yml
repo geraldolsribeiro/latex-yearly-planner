@@ -1,0 +1,12 @@
+addlasthalfhour: false
+
+layout:
+  numbers:
+    dailybottomhour: 6
+    dailytophour: 22
+    dailynotes: 33
+
+  lengths:
+    headersidecellheight: "[1.35ex]"
+    headersidequarterswidth: 4cm
+    headersidemonthswidth: 15.25cm
