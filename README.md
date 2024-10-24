@@ -48,5 +48,16 @@ Instead of installing the dependencies manually, this repository is defined as a
 2. Build a planner pdf using `nix build`
 3. Or, if you want to develop the code, enter a shell with all the dependencies present using `nix develop`
    
-# Preview examples
-<img src="https://github.com/kudrykv/latex-yearly-planner/blob/main/examples/pictures/sn_a5x.planner/01_annual.png" width="419"><img src="https://github.com/kudrykv/latex-yearly-planner/blob/main/examples/pictures/sn_a5x.planner/02_quarter.png" width="419"><img src="https://github.com/kudrykv/latex-yearly-planner/blob/main/examples/pictures/sn_a5x.planner/03_month.png" width="419"><img src="https://github.com/kudrykv/latex-yearly-planner/blob/main/examples/pictures/sn_a5x.planner/04_week.png" width="419"><img src="https://github.com/kudrykv/latex-yearly-planner/blob/main/examples/pictures/sn_a5x.planner/05_day.png" width="419"><img src="https://github.com/kudrykv/latex-yearly-planner/blob/main/examples/pictures/sn_a5x.planner/06_day_notes.png" width="419"><img src="https://github.com/kudrykv/latex-yearly-planner/blob/main/examples/pictures/sn_a5x.planner/07_day_reflect.png" width="419"><img src="https://github.com/kudrykv/latex-yearly-planner/blob/main/examples/pictures/sn_a5x.planner/08_todos_index.png" width="419"><img src="https://github.com/kudrykv/latex-yearly-planner/blob/main/examples/pictures/sn_a5x.planner/09_todos_page.png" width="419"><img src="https://github.com/kudrykv/latex-yearly-planner/blob/main/examples/pictures/sn_a5x.planner/10_notes_index.png" width="419"><img src="https://github.com/kudrykv/latex-yearly-planner/blob/main/examples/pictures/sn_a5x.planner/11_notes_page.png" width="419">
+# Preview examples RM3
+
+<img width="532" src="https://github.com/geraldolsribeiro/latex-yearly-planner/blob/main/examples/pictures/rm3.mos.default.dailycal.planner/00_cover.png" />
+<img width="532" src="https://github.com/geraldolsribeiro/latex-yearly-planner/blob/main/examples/pictures/rm3.mos.default.dailycal.planner/01_annual.png" />
+<img width="532" src="https://github.com/geraldolsribeiro/latex-yearly-planner/blob/main/examples/pictures/rm3.mos.default.dailycal.planner/02_quarter.png" />
+<img width="532" src="https://github.com/geraldolsribeiro/latex-yearly-planner/blob/main/examples/pictures/rm3.mos.default.dailycal.planner/03_month.png" />
+<img width="532" src="https://github.com/geraldolsribeiro/latex-yearly-planner/blob/main/examples/pictures/rm3.mos.default.dailycal.planner/04_week.png" />
+<img width="532" src="https://github.com/geraldolsribeiro/latex-yearly-planner/blob/main/examples/pictures/rm3.mos.default.dailycal.planner/05_day.png" />
+<img width="532" src="https://github.com/geraldolsribeiro/latex-yearly-planner/blob/main/examples/pictures/rm3.mos.default.dailycal.planner/06_day_note.png" />
+<img width="532" src="https://github.com/geraldolsribeiro/latex-yearly-planner/blob/main/examples/pictures/rm3.mos.default.dailycal.planner/07_day_reflect.png" />
+<img width="532" src="https://github.com/geraldolsribeiro/latex-yearly-planner/blob/main/examples/pictures/rm3.mos.default.dailycal.planner/10_notes_index.png" />
+<img width="532" src="https://github.com/geraldolsribeiro/latex-yearly-planner/blob/main/examples/pictures/rm3.mos.default.dailycal.planner/11_notes_page.png" />
+
